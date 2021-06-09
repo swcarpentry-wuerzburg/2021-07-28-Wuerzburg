@@ -251,12 +251,14 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
+{% endcomment %}
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is primarily intended for PhD students and PostDocs at the university of Würzburg.
+  Please sign up using the <a href="https://www.graduateschools.uni-wuerzburg.de/life-sciences/doctoral-researchers/training/transferable-skills/transferable-skills-registration/">Transferrable Skills page of the GSLS</a>.
+    It is still open to anyone who wants to attend if seats are available (just contact one of the instructors).
 </p>
-{% endcomment %}
 
 <hr/>
 
