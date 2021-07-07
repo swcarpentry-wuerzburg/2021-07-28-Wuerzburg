@@ -13,7 +13,7 @@ humandate: "Jul 28-30, 2021"    # human-readable dates for the workshop (e.g., "
 humantime: "10:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-07-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-07-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Florian Goth", "Markus Ankenbrand", "Jacob  Beyer"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Markus Ankenbrand", "Jacob  Beyer", "Florian Goth"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Christopher Nauroth", "Jefferson S.E. Portela", "Jonas Schwab", "Manuel Schrauth", "Tilman Schwemmer"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["florian.goth@physik.uni-wuerzburg.de","markus.ankenbrand@uni-wuerzburg.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/swc-wuerzburg-2021-07-28 # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -257,7 +257,7 @@ Edit the text to match who can attend the workshop. For instance:
     <strong>Who can attend?:</strong>
     This workshop is primarily intended for PhD students and PostDocs at the university of Würzburg.
   Please sign up using the <a href="https://www.graduateschools.uni-wuerzburg.de/life-sciences/doctoral-researchers/training/transferable-skills/transferable-skills-registration/">Transferrable Skills page of the GSLS</a>.
-    It is still open to anyone who wants to attend if seats are available (just contact one of the instructors).
+    It is still open to anyone who wants to attend if seats(currently only waiting list) are available (just contact one of the instructors).
 </p>
 
 <hr/>
